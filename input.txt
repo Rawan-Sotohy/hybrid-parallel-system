@@ -1,0 +1,12 @@
+The sun rises in the east every morning
+Parallel computing speeds up heavy tasks
+OpenMP handles shared memory threads well
+MPI distributes work across many processes
+CUDA runs thousands of threads on the GPU
+Matrix multiplication is a classic problem
+Even lines will go into one output file
+Odd lines will go into another output file
+Hybrid parallelism combines all three tools
+The master process coordinates everything
+Results are collected and displayed at the end
+This is the last line of the input file
